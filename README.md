@@ -29,7 +29,7 @@ Microsoft Edge Add-ons 搜索「AI 翻译助手」安装（商店链接待扩展
 
 1. 克隆本仓库：
    ```bash
-   git clone <仓库地址>
+   git clone https://github.com/Qiwei-QW/AI-translator.git
    ```
 2. 打开 Edge，地址栏输入 `edge://extensions` 回车
 3. 打开左下角「开发人员模式」
