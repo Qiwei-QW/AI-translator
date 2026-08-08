@@ -95,7 +95,7 @@ AI 翻译助手（AI Translator）隐私政策
 
 ## 📄 许可
 
-本项目基于 [MIT License](LICENSE)开源。
+详情见 License 文件
 
 ---
 
