@@ -23,7 +23,7 @@
 
 ### 方式一：从商店安装（推荐）
 
-Microsoft Edge Add-ons 搜索「AI 翻译助手」安装（商店链接待扩展上架后补充）。
+复制以下链接在浏览器地址栏打开：https://microsoftedge.microsoft.com/addons/detail/imcmbkhbgdnbkdfjmjhefjjclgbhaejj
 
 ### 方式二：开发者模式加载（本地调试）
 
